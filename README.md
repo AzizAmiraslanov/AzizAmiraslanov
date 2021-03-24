@@ -1,16 +1,15 @@
-### Hi there 👋
+###  This post shows what I'm doing.  👋
 
-<!--
-**AzizAmiraslanov/AzizAmiraslanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Fronted Developer, Template Designer, 
+- 🌱 I’m currently learning ... C#, Javascript, Java, Linux
+- 👯 I’m looking to collaborate on ... Javascript.
+- 🤔 I’m looking for help with ... Google, W3School, ProjecTeuler
+- 💬 Ask me about ... Web Programs
+- 📫 How to reach me: ... Read and Write Code
+- 😄 Pronouns: ... Salam Aleykum
+- ⚡ Fun fact: ... Sebrle ve eziyyetle olur her bir is.
+
