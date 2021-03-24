@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Web Programs
 - 📫 How to reach me: ... Read and Write Code
 - 😄 Pronouns: ... Salam Aleykum
-- ⚡ Fun fact: ... Sebrle ve eziyyetle olur her bir is.
+- ⚡ Fun fact: ... I dont have Social adress only have GitHub.
 
 <hr>
 <br>
