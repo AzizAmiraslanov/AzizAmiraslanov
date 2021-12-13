@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h2 align="center">Some technologies that I have used to make Backend.</h2>
 <img src="<div>
 <h2 align="center">Some technologies that I have used to make Frontend.</h2>
- <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Bootstrap" width="50" height="40">
+ <img src="https://www.google.az/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F363285%2Fc-sharp-c&psig=AOvVaw0AGLbQ7Lt8obSY8U1W5ryH&ust=1639514050445000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDVq_fP4fQCFQAAAAAdAAAAABAI" alt="C#" width="50" height="40">
   </div>
 <br>
 
