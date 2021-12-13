@@ -34,7 +34,10 @@ Here are some ideas to get you started:
 
 <div>
 <h2 align="center">Some technologies that I have used to make Backend.</h2>
-  <img src="https://startupvadisi.com/wp-content/uploads/2020/05/1MfOHvI5b1XZKYTXIAKY7PQ-960x512.png" alt="C#" width="70" height="40">
+  <img src="https://startupvadisi.com/wp-content/uploads/2020/05/1MfOHvI5b1XZKYTXIAKY7PQ-960x512.png" alt=".Net" width="70" height="40">
+  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="70" height="40">
+  
 </div>
 
 <br>
