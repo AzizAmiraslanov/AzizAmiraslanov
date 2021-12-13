@@ -32,14 +32,6 @@ Here are some ideas to get you started:
 
 
 
-<div>
-<h2 align="center">Some technologies that I have used to make Backend.</h2>
-  <img src="https://startupvadisi.com/wp-content/uploads/2020/05/1MfOHvI5b1XZKYTXIAKY7PQ-960x512.png" alt=".Net" width="70" height="40">
-    <img src="https://sanalkurs.net/uploads/tutorial/images/1453224503.png" alt="C#" width="70" height="40">
-  
-</div>
-
-<br>
 
 
 
@@ -54,6 +46,16 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/967px-Mozilla_Firefox_logo_2013.svg.png" alt="Firefox" width="50" height="40">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Safari_browser_logo.svg/1028px-Safari_browser_logo.svg.png" alt="Safari" width="50" height="40">
 </div>
+<br>
+
+
+<div>
+<h2 align="center">Some technologies that I have used to make Backend.</h2>
+  <img src="https://startupvadisi.com/wp-content/uploads/2020/05/1MfOHvI5b1XZKYTXIAKY7PQ-960x512.png" alt=".Net" width="70" height="40">
+    <img src="https://sanalkurs.net/uploads/tutorial/images/1453224503.png" alt="C#" width="70" height="40">
+  
+</div>
+
 <br>
 
 <hr>
