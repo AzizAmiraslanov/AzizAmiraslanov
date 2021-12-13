@@ -36,10 +36,9 @@ Here are some ideas to get you started:
 <h2 align="center">Some technologies that I have used to make Backend.</h2>
 <img src="<div>
 <h2 align="center">Some technologies that I have used to make Frontend.</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="50" height="40">" alt="HTML5" width="50" height="40">
-  
+ <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Bootstrap" width="50" height="40">
   </div>
-
+<br>
 
 
 
