@@ -25,10 +25,22 @@ Here are some ideas to get you started:
 <img src="https://e7.pngegg.com/pngimages/265/442/png-clipart-jquery-ui-javascript-web-browser-pasargad-text-trademark.png" alt="Jquery" width="50" height="40">
   <img src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-6-1175203.png" alt="Bootstrap" width="50" height="40">
   <img src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="Sass" width="50" height="40">
-  <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/plugin-512.png" alt="Plugin" width="50" height="40">
-  
+  <img src="https://cdn0.iconfinder.com/data/icons/zondicons/20/plugin-512.png" alt="Plugin" width="50" height="40">  
 </div>
 <br>
+
+
+
+
+<div>
+<h2 align="center">Some technologies that I have used to make Backend.</h2>
+<img src="<div>
+<h2 align="center">Some technologies that I have used to make Frontend.</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="50" height="40">" alt="HTML5" width="50" height="40">
+  
+  </div>
+
+
 
 
 <div>
