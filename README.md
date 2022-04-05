@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Fronted Developer, Template Designer, 
+- 🔭 I’m currently working on ... Fronted Developer, UI Designer, 
 - 🌱 I’m currently learning ... C#, Javascript, Java, Linux
 - 👯 I’m looking to collaborate on ... Javascript.
 - 🤔 I’m looking for help with ... Google, W3School, ProjecTeuler
