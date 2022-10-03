@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/visual-studio-code-icon.png" alt="Visual Studio Code Mobile" width="50" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="40">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="Safari" width="50" height="40">
-   <img src="https://www.liblogo.com/lib/figma-logo.html" alt="Safari" width="50" height="40">
+   <img src="https://logosarchive.com/wp-content/uploads/2021/12/Figma-logo.svg" alt="Figma" width="50" height="40">
   <img src="https://icons.iconarchive.com/icons/franksouza183/fs/512/Apps-google-chrome-icon.png" alt="Chrome" width="50" height="40">
   <img src="https://pngimg.com/uploads/ie_logo/ie_logo_PNG30.png" alt="Safari" width="50" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mozilla_Firefox_logo_2013.svg/967px-Mozilla_Firefox_logo_2013.svg.png" alt="Firefox" width="50" height="40">
