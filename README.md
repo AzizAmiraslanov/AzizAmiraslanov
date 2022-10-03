@@ -4,14 +4,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Fronted Developer, UI Designer, 
+- 🔭 I’m currently working on ... Fronted Developer, UI & UX Designer, 
 - 🌱 I’m currently learning ... C#, Javascript, Java, Linux
 - 👯 I’m looking to collaborate on ... Javascript.
 - 🤔 I’m looking for help with ... Google, W3School, ProjecTeuler
 - 💬 Ask me about ... Web Programs
 - 📫 How to reach me: ... Read and Write Code
 - 😄 Pronouns: ... Salam Aleykum
-- ⚡ Fun fact: ... I dont have Social adress only have GitHub.
+- ⚡ Where can you follow me? ... 
+- <a href="https://az-teacher.com/aziz-amiraslanov/index.html">My Portfolio Web Site</a>
+- <a href="https://www.youtube.com/azteacher">Me Youtube Channel</a>
+- <a href="https://www.instagram.com/aziz_eziko/">Instagram</a>
+- 
+-  Fun fact: ... I dont have Social adress only have GitHub.
+
 
 <hr>
 <br>
