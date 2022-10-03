@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Read and Write Code
 - 😄 Pronouns: ... Salam Aleykum
 - ⚡ Where can you follow me? ... 
-- <a href="https://az-teacher.com/aziz-amiraslanov/index.html">My Portfolio Web Site</a>
-- <a href="https://www.youtube.com/azteacher">Me Youtube Channel</a>
-- <a href="https://www.instagram.com/aziz_eziko/">Instagram</a>
+- ......:::::<a href="https://az-teacher.com/aziz-amiraslanov/index.html" target="_blank">My Portfolio Web Site</a>:::::......
+- <a href="https://www.youtube.com/azteacher" target="_blank">Me Youtube Channel</a>
+- <a href="https://www.instagram.com/aziz_eziko/" target="_blank">Instagram</a>
 - 
 -  Fun fact: ... I dont have Social adress only have GitHub.
 
