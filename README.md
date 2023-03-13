@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... C#, Javascript, Java, Linux
 - 👯 I’m looking to collaborate on ... Javascript.
 - 🤔 I’m looking for help with ... Google, W3School, ProjecTeuler
-- 💬 Ask me about ... Web Programs
+- 💬 Ask me about ... Web Site, UI&UX design, 
 - 📫 How to reach me: ... Read and Write Code
 - 😄 Pronouns: ... Salam Aleykum
 - ⚡ Where can you follow me? ... 
@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.iconscout.com/icon/free/png-512/css3-8-1175200.png" alt="CSS3" width="50" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="Javascript" width="50" height="40">
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" alt="React" width="50" height="40">
+<img src="https://seeklogo.com/images/V/vue-js-logo-2C42B6690F-seeklogo.com.png" alt="Vue Js" width="50" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png" alt="Nuxt Js" width="50" height="40">
+  
   <img src="https://e7.pngegg.com/pngimages/265/442/png-clipart-jquery-ui-javascript-web-browser-pasargad-text-trademark.png" alt="Jquery" width="50" height="40">
   <img src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-6-1175203.png" alt="Bootstrap" width="50" height="40">
   <img src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png" alt="Sass" width="50" height="40">
